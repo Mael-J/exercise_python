@@ -1,2 +1,2 @@
 # exercice_python
-Python exercice pandas and OOP
+Python exercise pandas and OOP
